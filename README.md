@@ -7,4 +7,4 @@
 ![JiaoLong 16 Pro](https://img.shields.io/badge/Device-JiaoLong%2016%20Pro-blue?style=flat-square&logo=windows&logoColor=white)
 ![Xiaomi Mi 6](https://img.shields.io/badge/Device-Xiaomi%20Mi%206-lightgrey?style=flat-square&logo=xiaomi&logoColor=white)
 ## 📫 Contact Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/twoone3_tech_tips)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/twoone3)
